@@ -1,21 +1,21 @@
 {
 	"employee": [{
-		"name": "shahnawaz",
-		"photo": "https://www.androidbegin.com/tutorial/flag/china.png",
+		"name": "piyush",
+		"photo": "https://github.com/sraza295/EmployeeLeaveManagement/blob/master/piyush.jpg",
 		"age": "26",
 		"gender": "male",
 	  	"designation":"developer"
 	},
 				{
 		"name": "shashi",
-		"photo": "https://www.androidbegin.com/tutorial/flag/china.png",
+		"photo": "https://github.com/sraza295/EmployeeLeaveManagement/blob/master/shashi.jpg",
 		"age": "25",
 		"gender": "male",
 	  	"designation":"developer"
 	},
 				{
 		"name": "abhishek",
-		"photo": "https://www.androidbegin.com/tutorial/flag/china.png",
+		"photo": "https://github.com/sraza295/EmployeeLeaveManagement/blob/master/abhishek.jpg",
 		"age": "27",
 		"gender": "male",
 	  	"designation":"tester"
