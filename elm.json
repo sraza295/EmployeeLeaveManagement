@@ -1,0 +1,23 @@
+{
+	"employee": [{
+		"name": "shahnawaz",
+		"photo": "https://www.androidbegin.com/tutorial/flag/china.png",
+		"age": "26",
+		"gender": "male",
+	  	"designation":"developer"
+	},
+				{
+		"name": "shashi",
+		"photo": "https://www.androidbegin.com/tutorial/flag/china.png",
+		"age": "25",
+		"gender": "male",
+	  	"designation":"developer"
+	},
+				{
+		"name": "abhishek",
+		"photo": "https://www.androidbegin.com/tutorial/flag/china.png",
+		"age": "27",
+		"gender": "male",
+	  	"designation":"tester"
+	}]
+}
