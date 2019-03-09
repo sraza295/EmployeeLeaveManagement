@@ -72,7 +72,199 @@
 	},
  				{
 		"name": "shubham",
-		"photo": "https://raw.githubusercontent.com/sraza295/EmployeeLeaveManagement/master/shubham.jpg",
+		"photo": "https://raw.githubusercontent.com/sraza295/EmployeeLeaveManagement/master/subham.jpg",
+		"age": "28",
+		"gender": "male",
+	  	"designation":"developer",
+		"sac_leave":15
+	},
+				{
+		"name": "vivek",
+		"photo": "https://raw.githubusercontent.com/sraza295/EmployeeLeaveManagement/master/vivek.jpg",
+		"age": "25",
+		"gender": "male",
+	  	"designation":"developer",
+		"sac_leave":12
+	},
+				{
+		"name": "nishant",
+		"photo": "https://raw.githubusercontent.com/sraza295/EmployeeLeaveManagement/master/nishant.jpg",
+		"age": "27",
+		"gender": "male",
+	  	"designation":"tester",
+		"sac_leave":13
+	},
+ 				{
+		"name": "piyush",
+		"photo": "https://raw.githubusercontent.com/sraza295/EmployeeLeaveManagement/master/piyush.jpg",
+		"age": "26",
+		"gender": "male",
+	  	"designation":"developer",
+		"sac_leave":15
+	},
+				{
+		"name": "shashi",
+		"photo": "https://raw.githubusercontent.com/sraza295/EmployeeLeaveManagement/master/shashi.jpg",
+		"age": "25",
+		"gender": "male",
+	  	"designation":"developer",
+		"sac_leave":12
+	},
+				{
+		"name": "abhishek",
+		"photo": "https://raw.githubusercontent.com/sraza295/EmployeeLeaveManagement/master/abhishek.jpg",
+		"age": "27",
+		"gender": "male",
+	  	"designation":"tester",
+		"sac_leave":13
+	},
+ 				{
+		"name": "bhagban",
+		"photo": "https://raw.githubusercontent.com/sraza295/EmployeeLeaveManagement/master/bhagban.jpg",
+		"age": "28",
+		"gender": "male",
+	  	"designation":"developer",
+		"sac_leave":15
+	},
+				{
+		"name": "ganesh",
+		"photo": "https://raw.githubusercontent.com/sraza295/EmployeeLeaveManagement/master/ganesh.jpg",
+		"age": "25",
+		"gender": "male",
+	  	"designation":"developer",
+		"sac_leave":12
+	},
+				{
+		"name": "nishant",
+		"photo": "https://raw.githubusercontent.com/sraza295/EmployeeLeaveManagement/master/nishant.jpg",
+		"age": "27",
+		"gender": "male",
+	  	"designation":"tester",
+		"sac_leave":13
+	},
+ 				{
+		"name": "raminsh",
+		"photo": "https://raw.githubusercontent.com/sraza295/EmployeeLeaveManagement/master/raminsh.jpg",
+		"age": "26",
+		"gender": "male",
+	  	"designation":"developer",
+		"sac_leave":15
+	},
+				{
+		"name": "samir",
+		"photo": "https://raw.githubusercontent.com/sraza295/EmployeeLeaveManagement/master/samir.jpg",
+		"age": "25",
+		"gender": "male",
+	  	"designation":"developer",
+		"sac_leave":12
+	},
+				{
+		"name": "shyam",
+		"photo": "https://raw.githubusercontent.com/sraza295/EmployeeLeaveManagement/master/shyam.jpg",
+		"age": "27",
+		"gender": "male",
+	  	"designation":"tester",
+		"sac_leave":13
+	},
+ 				{
+		"name": "shubham",
+		"photo": "https://raw.githubusercontent.com/sraza295/EmployeeLeaveManagement/master/subham.jpg",
+		"age": "28",
+		"gender": "male",
+	  	"designation":"developer",
+		"sac_leave":15
+	},
+				{
+		"name": "vivek",
+		"photo": "https://raw.githubusercontent.com/sraza295/EmployeeLeaveManagement/master/vivek.jpg",
+		"age": "25",
+		"gender": "male",
+	  	"designation":"developer",
+		"sac_leave":12
+	},
+				{
+		"name": "nishant",
+		"photo": "https://raw.githubusercontent.com/sraza295/EmployeeLeaveManagement/master/nishant.jpg",
+		"age": "27",
+		"gender": "male",
+	  	"designation":"tester",
+		"sac_leave":13
+	},
+ 				{
+		"name": "piyush",
+		"photo": "https://raw.githubusercontent.com/sraza295/EmployeeLeaveManagement/master/piyush.jpg",
+		"age": "26",
+		"gender": "male",
+	  	"designation":"developer",
+		"sac_leave":15
+	},
+				{
+		"name": "shashi",
+		"photo": "https://raw.githubusercontent.com/sraza295/EmployeeLeaveManagement/master/shashi.jpg",
+		"age": "25",
+		"gender": "male",
+	  	"designation":"developer",
+		"sac_leave":12
+	},
+				{
+		"name": "abhishek",
+		"photo": "https://raw.githubusercontent.com/sraza295/EmployeeLeaveManagement/master/abhishek.jpg",
+		"age": "27",
+		"gender": "male",
+	  	"designation":"tester",
+		"sac_leave":13
+	},
+ 				{
+		"name": "bhagban",
+		"photo": "https://raw.githubusercontent.com/sraza295/EmployeeLeaveManagement/master/bhagban.jpg",
+		"age": "28",
+		"gender": "male",
+	  	"designation":"developer",
+		"sac_leave":15
+	},
+				{
+		"name": "ganesh",
+		"photo": "https://raw.githubusercontent.com/sraza295/EmployeeLeaveManagement/master/ganesh.jpg",
+		"age": "25",
+		"gender": "male",
+	  	"designation":"developer",
+		"sac_leave":12
+	},
+				{
+		"name": "nishant",
+		"photo": "https://raw.githubusercontent.com/sraza295/EmployeeLeaveManagement/master/nishant.jpg",
+		"age": "27",
+		"gender": "male",
+	  	"designation":"tester",
+		"sac_leave":13
+	},
+ 				{
+		"name": "raminsh",
+		"photo": "https://raw.githubusercontent.com/sraza295/EmployeeLeaveManagement/master/raminsh.jpg",
+		"age": "26",
+		"gender": "male",
+	  	"designation":"developer",
+		"sac_leave":15
+	},
+				{
+		"name": "samir",
+		"photo": "https://raw.githubusercontent.com/sraza295/EmployeeLeaveManagement/master/samir.jpg",
+		"age": "25",
+		"gender": "male",
+	  	"designation":"developer",
+		"sac_leave":12
+	},
+				{
+		"name": "shyam",
+		"photo": "https://raw.githubusercontent.com/sraza295/EmployeeLeaveManagement/master/shyam.jpg",
+		"age": "27",
+		"gender": "male",
+	  	"designation":"tester",
+		"sac_leave":13
+	},
+ 				{
+		"name": "shubham",
+		"photo": "https://raw.githubusercontent.com/sraza295/EmployeeLeaveManagement/master/subham.jpg",
 		"age": "28",
 		"gender": "male",
 	  	"designation":"developer",
