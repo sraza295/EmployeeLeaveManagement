@@ -1,5 +1,4 @@
-{
-	"employee": [{
+[{
 		"name": "piyush",
 		"photo": "https://github.com/sraza295/EmployeeLeaveManagement/blob/master/piyush.jpg",
 		"age": "26",
@@ -20,4 +19,3 @@
 		"gender": "male",
 	  	"designation":"tester"
 	}]
-}
